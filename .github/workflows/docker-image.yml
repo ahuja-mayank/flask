@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: mayank82/sample:1.0
+          tags: mayank82/flask:1.0
