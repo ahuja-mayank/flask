@@ -1,1 +1,8 @@
 flask
+whl
+xlwings
+pyyaml
+pyotp
+websocket_client
+pandas
+os
